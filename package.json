@@ -23,5 +23,7 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {}
+  "dependencies": {
+    "serialize-javascript": ">=3.1.0"
+  }
 }
